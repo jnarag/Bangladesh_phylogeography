@@ -1,0 +1,6 @@
+"Dhaka","Chattogram","Bogura","Cumilla","Jashore","Destination"
+1,0,0.142857142857143,0,0,"Dhaka"
+0,1,0,0.0454545454545455,0,"Chattogram"
+0.142857142857143,0,1,0,0,"Bogura"
+0,0.0454545454545455,0,1,0,"Cumilla"
+0,0,0,0,1,"Jashore"

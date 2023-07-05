@@ -1,0 +1,28 @@
+description of the files: 
+
+1) Exotic_broiler_data.csv and Sonali_data.csv: list of chains from upazilas to market vendors 
+                                              (with the intermediaries if they exist) for broilers and sonalis. 
+
+columns: 
+    1. Market vendor: id of the market vendor 
+       LT-B-ST-002-006  : 002 is the id of the market ; 006 is the id of the interviewee (these two numbers allow to identify the market vendor) 
+    2. Intermediary:
+this is the order of the chains: farms -> Intermediary 4 -> Intermediary 3 -> Intermediary 2 -> Intermediary 1 -> Market vendor
+
+    3. No of intermediary in chain: number of intermediaries between the farm and the market vendor
+    4. FD: feed dealer
+    5. District_Farm: district of the farm origin 
+    6. Sub-District_Farm = Upazila
+    7. Upazila_Farm = id of the upazila that are in the administrative shapefile "BGD_adm4.shp"
+    8. City_market: the city of the market 
+    9. market_name: the complete name of the market 
+    10. market_id : this is the id of the market
+    11. long_upa/lat_upa : the latitude and longitude of the upazila (place of origin of the chickens)
+
+
+    
+2) Sonali_MV_missing data.csv and Exotic_broiler_MV_missing data.csv
+the list of market vendors for which we do not have the number of chickens sold (per market vendor)
+
+
+

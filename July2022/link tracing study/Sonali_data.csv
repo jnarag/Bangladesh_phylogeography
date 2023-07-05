@@ -1,0 +1,384 @@
+"Market vendor";"Intermediary 1";"Intermediary 2";"Intermediary 3";"No of intermediary in chain";"FD present";"Transfer between markets";"District_Farm";"Sub-District_Farm";"Upazila_Farm";"Union_Farm";"Village_Farm";"City_market";"market_name";"market_id";"chick_sold_max";"chick_sold_min";"Market_city";"lon_upa";"lat_upa"
+"LT-B-ST-002-006";"LT-B-ST-034-101";"LT-B-MT-082";"LT-B-FD-054";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;"Sadar";NA;"Dhaka";"Sukrabad bazar";2;300;200;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-002-006";"LT-B-ST-034-101";"LT-B-MT-082";"LT-B-FD-020";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Deogram";NA;"Dhaka";"Sukrabad bazar";2;300;200;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-002-007";"LT-B-ST-028-103";"LT-B-MT-081";"LT-B-FD-015";3;"Yes";"Yes";"Bogra";"Shajahanpur";9114;NA;NA;"Dhaka";"Sukrabad bazar";2;200;100;"Dhaka";89.6337948680985;24.1692536908316
+"LT-B-ST-002-010";"LT-B-ST-028-103";"LT-B-MT-081";"LT-B-FD-015";3;"Yes";"Yes";"Bogra";"Shajahanpur";9114;NA;NA;"Dhaka";"Sukrabad bazar";2;25;20;"Dhaka";89.6337948680985;24.1692536908316
+"LT-B-ST-004-002";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-065";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jatrabari Chowrasta bazar";4;150;60;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-004-002";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-064";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;"Sadar";NA;"Dhaka";"Jatrabari Chowrasta bazar";4;150;60;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-004-002";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-066";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Kalai";"Kurnipara";"Dhaka";"Jatrabari Chowrasta bazar";4;150;60;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-005-004";"LT-B-ST-028-101";"LT-B-MT-079";"LT-B-FD-053";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Narhotto";"Bibir pukur";"Dhaka";"Zigatola market";5;50;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-005-006";"LT-B-MT-042";"LT-B-FD-012";NA;2;"Yes";NA;"Sirajgonj";"Ullahpara";9117;NA;NA;"Dhaka";"Zigatola market";5;60;25;"Dhaka";89.5215898094277;24.3351207896286
+"LT-B-ST-011-001";NA;NA;NA;0;"No";NA;"Gazipur";"Gazipur S.";8889;"Tongi bazar";"Tongi bazar";"Dhaka";"Ajampur Kacha bazar";11;90;50;"Dhaka";90.4044345206058;24.0215174827904
+"LT-B-ST-011-005";NA;NA;NA;0;"No";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Ajampur Kacha bazar";11;130;110;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-012-004";"LT-B-ST-012-102";"LT-B-MT-072";"LT-B-FD-019";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Bir kedar";"Bir Kedar";"Dhaka";"Mirpur-11";12;50;40;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-012-007";"LT-B-ST-012-101";"LT-B-MT-073";"LT-B-FD-018";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Dorgahat";"Bibir pukur";"Dhaka";"Mirpur-11";12;60;40;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-012-008";"LT-B-ST-024-101";"LT-B-MT-077";"LT-B-FD-052";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Paikor";"Arola";"Dhaka";"Mirpur-11";12;50;20;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-012-008";"LT-B-ST-024-101";"LT-B-MT-077";"LT-B-FD-051";3;"Yes";"Yes";"Bogra";"Bogra S.";9062;"Ghoradhap";NA;"Dhaka";"Mirpur-11";12;50;20;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-013-003";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-046";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Mohammadpur Krishi market";13;130;70;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-013-003";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-046";3;"Yes";"Yes";"Bogra";"Adamdighi";9061;NA;NA;"Dhaka";"Mohammadpur Krishi market";13;130;70;"Dhaka";89.0612087235006;24.80168807688
+"LT-B-ST-013-003";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-047";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Malancha";NA;"Dhaka";"Mohammadpur Krishi market";13;130;70;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-013-003";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-047";3;"Yes";"Yes";"Bogra";"Nandigram";9067;"Deogram";NA;"Dhaka";"Mohammadpur Krishi market";13;130;70;"Dhaka";89.2305605842568;24.6845416532694
+"LT-B-ST-013-004";NA;NA;NA;0;"No";NA;"Gazipur";"Sreepur";8893;NA;NA;"Dhaka";"Mohammadpur Krishi market";13;80;60;"Dhaka";90.4431305886092;24.2060634741482
+"LT-B-ST-013-004";NA;NA;NA;0;"No";NA;"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Mohammadpur Krishi market";13;80;60;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-015-002";"LT-B-ST-026-118";"LT-B-MT-088";"LT-B-FD-058";3;"Yes";"Yes";"Bogra";"Adamdighi";9061;"Shantahar";NA;"Dhaka";"Dhupkhola bazar";15;150;50;"Dhaka";89.0612087235006;24.80168807688
+"LT-B-ST-015-007";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-065";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Dhupkhola bazar";15;120;30;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-015-007";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-064";3;"Yes";"Yes";"Bogra";"Bogra S.";9062;NA;NA;"Dhaka";"Dhupkhola bazar";15;120;30;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-015-007";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-066";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Kalai";"Kurnipara";"Dhaka";"Dhupkhola bazar";15;120;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-015-008";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-065";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Dhupkhola bazar";15;100;80;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-015-008";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-064";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;"Sadar";NA;"Dhaka";"Dhupkhola bazar";15;100;80;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-015-008";"LT-B-ST-032-104";"LT-B-MT-092";"LT-B-FD-066";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Kalai";"Kurnipara";"Dhaka";"Dhupkhola bazar";15;100;80;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-001";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-062";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";"Purbopara";"Dhaka";"Jurain railgate bazar";16;80;70;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-001";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Muroil";"Porapara";"Dhaka";"Jurain railgate bazar";16;80;70;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-001";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;80;70;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-001";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";NA;"Dhaka";"Jurain railgate bazar";16;80;70;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-001";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;80;70;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-006";"LT-B-ST-026-116";"LT-B-MT-087";"LT-B-FD-057";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Kalai";"Kawla";"Dhaka";"Jurain railgate bazar";16;250;180;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-006";"LT-B-ST-026-116";"LT-B-MT-087";"LT-B-FD-057";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;"Sadar";NA;"Dhaka";"Jurain railgate bazar";16;250;180;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-008";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-062";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";"Purbopara";"Dhaka";"Jurain railgate bazar";16;100;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-008";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Muroil";"Porapara";"Dhaka";"Jurain railgate bazar";16;100;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-008";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;100;30;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-008";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";NA;"Dhaka";"Jurain railgate bazar";16;100;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-008";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;100;30;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-009";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-062";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";"Purbopara";"Dhaka";"Jurain railgate bazar";16;100;80;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-009";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Muroil";"Porapara";"Dhaka";"Jurain railgate bazar";16;100;80;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-009";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-061";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;100;80;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-016-009";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";NA;"Dhaka";"Jurain railgate bazar";16;100;80;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-016-009";"LT-B-ST-026-125";"LT-B-MT-091";"LT-B-FD-063";3;"Yes";"Yes";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Jurain railgate bazar";16;100;80;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-018-004";"LT-B-MT-016";"LT-B-FD-035";NA;2;"Yes";NA;"Rajbari";"Goalandaghat";8918;NA;NA;"Dhaka";"Rojonigandha supermarket";18;1000;800;"Dhaka";89.7690753063422;23.7532536071107
+"LT-B-ST-018-007";"LT-B-ST-018-104";"LT-B-MT-075";"LT-B-FD-049";3;"Yes";"No";"Bogra";"Dupchanchia";9064;"Sadar";NA;"Dhaka";"Rojonigandha supermarket";18;60;50;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-018-007";"LT-B-ST-018-104";"LT-B-MT-075";"LT-B-FD-049";3;"Yes";"No";"Bogra";"Dupchanchia";9064;"Zianagar";NA;"Dhaka";"Rojonigandha supermarket";18;60;50;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-018-007";"LT-B-ST-018-104";"LT-B-MT-075";"LT-B-FD-048";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Narhatto";NA;"Dhaka";"Rojonigandha supermarket";18;60;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-018-007";"LT-B-ST-018-104";"LT-B-MT-075";"LT-B-FD-048";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Paikor";"Dorgahat";"Dhaka";"Rojonigandha supermarket";18;60;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-018-007";"LT-B-ST-018-104";"LT-B-MT-076";"LT-B-FD-050";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Moroil";"Moroil bazar";"Dhaka";"Rojonigandha supermarket";18;60;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-018-009";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-046";3;"Yes";"No";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Rojonigandha supermarket";18;200;100;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-018-009";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-046";3;"Yes";"No";"Bogra";"Adamdighi";9061;NA;NA;"Dhaka";"Rojonigandha supermarket";18;200;100;"Dhaka";89.0612087235006;24.80168807688
+"LT-B-ST-018-009";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-047";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Malancha";NA;"Dhaka";"Rojonigandha supermarket";18;200;100;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-018-009";"LT-B-ST-018-103";"LT-B-MT-074";"LT-B-FD-047";3;"Yes";"No";"Bogra";"Nandigram";9067;"Deogram";NA;"Dhaka";"Rojonigandha supermarket";18;200;100;"Dhaka";89.2305605842568;24.6845416532694
+"LT-B-ST-021-001";"LT-B-MT-013";NA;NA;1;"No";NA;"Jaipurhat";"Joypurhat S.";9073;"Puranapur";NA;"Dhaka";"Hazrat Shah Ali city corp market";21;250;150;"Dhaka";89.0195490805762;25.112117116593
+"LT-B-ST-021-001";"LT-B-MT-013";NA;NA;1;"No";NA;"Dinajpur";"Birampur";9078;"Birampur";"Thanpur";"Dhaka";"Hazrat Shah Ali city corp market";21;250;150;"Dhaka";88.9642337967518;25.3794290481429
+"LT-B-ST-021-003";NA;NA;NA;0;"No";NA;"Jaipurhat";"Panchbibi";9076;NA;NA;"Dhaka";"Hazrat Shah Ali city corp market";21;800;700;"Dhaka";89.0708785685717;25.2094697629595
+"LT-B-ST-021-006";"LT-B-ST-030-101";"LT-B-MT-072";"LT-B-FD-019";3;"Yes";"Yes";"Bogra";"Kahaloo";9066;"Bir kedar";"Bir Kedar";"Dhaka";"Hazrat Shah Ali city corp market";21;40;20;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-021-007";NA;NA;NA;0;"No";NA;"Naogaon";"Badalgachhi";9119;NA;"Paharpur";"Dhaka";"Hazrat Shah Ali city corp market";21;600;500;"Dhaka";88.9409500218895;24.9648424917146
+"LT-B-ST-022-005";"LT-B-ST-022-103";"LT-B-MT-085";"LT-B-FD-056";3;"Yes";"No";"Bogra";"Bogra S.";9062;"Morakata";"Morakata bazar";"Dhaka";"Karwan bazar";22;40;30;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-022-005";"LT-B-ST-022-103";"LT-B-MT-085";"LT-B-FD-056";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Paikor";NA;"Dhaka";"Karwan bazar";22;40;30;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-024-001";NA;NA;NA;0;"No";NA;"Jaipurhat";"Akkelpur";9072;NA;NA;"Dhaka";"Townhall bazar";24;800;700;"Dhaka";89.0433837671459;24.9381842919755
+"LT-B-ST-024-001";NA;NA;NA;0;"No";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Townhall bazar";24;800;700;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-025-001";"LT-B-ST-025-101";"LT-B-MT-089";"LT-B-FD-020";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Deogram";NA;"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-025-001";"LT-B-ST-025-101";"LT-B-MT-090";"LT-B-FD-059";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Kalai";"Tindighi bazar";"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-025-001";"LT-B-ST-025-101";"LT-B-MT-089";"LT-B-FD-037";3;"Yes";"No";"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-025-001";"LT-B-ST-025-101";"LT-B-MT-089";"LT-B-FD-037";3;"Yes";"No";"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-025-001";"LT-B-ST-025-103";"LT-B-MT-093";NA;2;"No";"No";"Jessore";"Manirampur";9008;NA;NA;"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.2206079892989;23.00554458796
+"LT-B-ST-025-001";"LT-B-ST-025-101";"LT-B-MT-090";"LT-B-FD-060";3;"Yes";"No";"Bogra";"Bogra S.";9062;NA;NA;"Dhaka";"Fakirapul market";25;200;50;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-026-006";"LT-B-MT-018";"LT-B-FD-037";NA;2;"Yes";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Kaptan bazar";26;1500;300;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-026-006";"LT-B-MT-018";"LT-B-FD-037";NA;2;"Yes";NA;"Bogra";"Dupchanchia";9064;NA;NA;"Dhaka";"Kaptan bazar";26;1500;300;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-038";NA;2;"Yes";NA;"Dinajpur";"Nawabganj";8886;NA;NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";90.1517170413483;23.6707435115863
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-038";NA;2;"Yes";NA;"Dinajpur";"Hakimpur";9084;"Hilli";NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";89.0540869057888;25.2918955965681
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-039";NA;2;"Yes";NA;"Dinajpur";"Nawabganj";8886;NA;NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";90.1517170413483;23.6707435115863
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-039";NA;2;"Yes";NA;"Dinajpur";"Hakimpur";9084;"Hilli";NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";89.0540869057888;25.2918955965681
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-040";NA;2;"Yes";NA;"Jaipurhat";"Joypurhat S.";9073;NA;NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";89.0195490805762;25.112117116593
+"LT-B-ST-026-012";"LT-B-MT-019";"LT-B-FD-040";NA;2;"Yes";NA;"Jaipurhat";"Panchbibi";9076;NA;NA;"Dhaka";"Kaptan bazar";26;1500;600;"Dhaka";89.0708785685717;25.2094697629595
+"LT-B-ST-027-003";"LT-B-ST-027-101";"LT-B-MT-083";NA;2;"No";"No";"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"New market";27;120;100;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-027-003";"LT-B-ST-027-101";"LT-B-MT-083";NA;2;"No";"No";"Jaipurhat";"Akkelpur";9072;NA;NA;"Dhaka";"New market";27;120;100;"Dhaka";89.0433837671459;24.9381842919755
+"LT-B-ST-027-005";"LT-B-MT-022";"LT-B-FD-042";NA;2;"Yes";NA;"Bogra";"Bogra S.";9062;NA;NA;"Dhaka";"New market";27;100;50;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-027-005";"LT-B-MT-022";"LT-B-FD-041";NA;2;"Yes";NA;"Bogra";"Bogra S.";9062;NA;NA;"Dhaka";"New market";27;100;50;"Dhaka";89.3685985938306;24.8219848989681
+"LT-B-ST-027-005";"LT-B-MT-022";"LT-B-FD-041";NA;2;"Yes";NA;"Bogra";"Shibganj";9070;NA;NA;"Dhaka";"New market";27;100;50;"Dhaka";89.3050697602775;25.0194070320496
+"LT-B-ST-027-006";"LT-B-ST-027-102";"LT-B-MT-084";"LT-B-FD-055";3;"Yes";"No";"Bogra";"Kahaloo";9066;"Paikor";"Paikor";"Dhaka";"New market";27;60;34;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-028-003";"LT-B-MT-025";NA;NA;1;"No";NA;"Sirajgonj";"Raiganj";9113;"Salanga";NA;"Dhaka";"Rayerbazar Sadek khan";28;1500;300;"Dhaka";89.5146680814097;24.497302597884
+"LT-B-ST-028-003";"LT-B-MT-025";NA;NA;1;"No";NA;"Natore";"Baraigram";9130;"Bonpara";NA;"Dhaka";"Rayerbazar Sadek khan";28;1500;300;"Dhaka";89.1269947296812;24.2606596879119
+"LT-B-ST-028-007";NA;NA;NA;0;"No";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Rayerbazar Sadek khan";28;1200;1000;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-028-008";"LT-B-MT-027";"LT-B-FD-011";NA;2;"Yes";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;300;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-028-008";"LT-B-MT-027";"LT-B-FD-010";NA;2;"Yes";NA;"Bogra";"Kahaloo";9066;NA;NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;300;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-028-008";"LT-B-MT-027";"LT-B-FD-010";NA;2;"Yes";NA;"Bogra";"Shibganj";9070;NA;NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;300;"Dhaka";89.3050697602775;25.0194070320496
+"LT-B-ST-028-009";"LT-B-MT-026";"LT-B-FD-009";NA;2;"Yes";NA;"Bogra";"Dupchanchia";9064;"Islampur";"Sazapur";"Dhaka";"Rayerbazar Sadek khan";28;1000;200;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-028-009";"LT-B-MT-026";"LT-B-FD-009";NA;2;"Yes";NA;"Bogra";"Dupchanchia";9064;"Zianagar";NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;200;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-028-009";"LT-B-MT-026";"LT-B-FD-008";NA;2;"Yes";NA;"Bogra";"Dupchanchia";9064;"Dupchanchia";NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;200;"Dhaka";89.1405425767005;24.8876758898696
+"LT-B-ST-028-009";"LT-B-MT-026";"LT-B-FD-008";NA;2;"Yes";NA;"Bogra";"Kahaloo";9066;"Birkader";NA;"Dhaka";"Rayerbazar Sadek khan";28;1000;200;"Dhaka";89.2518816652273;24.8357853881372
+"LT-B-ST-102-004";"LT-B-MT-124";"LT-B-FD-118";NA;2;"Yes";NA;"Chittagong";"Hathazari";8807;"Gorduara";"Chutgache";"Chattogram";"Bakolia bazar";102;NA;NA;"Chattogram";91.7977263789578;22.5163408977243
+"LT-B-ST-102-004";"LT-B-MT-124";"LT-B-FD-118";NA;2;"Yes";NA;"Chittagong";"Hathazari";8807;"Fatehpur";"Fatehpur";"Chattogram";"Bakolia bazar";102;NA;NA;"Chattogram";91.7977263789578;22.5163408977243
+"LT-B-ST-102-004";"LT-B-MT-124";"LT-B-FD-118";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Korer hat";"Nolkho";"Chattogram";"Bakolia bazar";102;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-102-004";"LT-B-MT-124";"LT-B-FD-119";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Mekol";"West raozan";"Chattogram";"Bakolia bazar";102;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-102-004";"LT-B-MT-124";"LT-B-FD-119";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Suiltanpur";NA;"Chattogram";"Bakolia bazar";102;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-120";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Baraiyarhat";"dhum";"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-121";NA;2;"Yes";NA;"Chittagong";"Hathazari";8807;"Fatehpur";"Jamtol";"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.7977263789578;22.5163408977243
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-121";NA;2;"Yes";NA;"Chittagong";"Hathazari";8807;"Zila porishod";"kachari road";"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.7977263789578;22.5163408977243
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-120";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Hinguli";"Shantir hat";"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-122";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Sultanpur";NA;"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-122";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Urkirchor";NA;"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-103-004";"LT-B-MT-125";"LT-B-FD-122";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Gohira";NA;"Chattogram";"Chowdhury hat";103;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-104-003";"LT-B-MT-127";"LT-B-FD-123";NA;2;"Yes";NA;"Chittagong";"Chandanaish";8805;"Borkol";"Hasandondi";"Chattogram";"Firingi bazar";104;NA;NA;"Chattogram";92.0679177335514;22.2301132897935
+"LT-B-ST-104-003";"LT-B-MT-127";"LT-B-FD-123";NA;2;"Yes";NA;"Chittagong";"Chandanaish";8805;"Dohazari pouroshuva";"Jamir juri";"Chattogram";"Firingi bazar";104;NA;NA;"Chattogram";92.0679177335514;22.2301132897935
+"LT-B-ST-111-001";"LT-B-MT-129";"LT-B-FD-124";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"PM  Khalil";"Maispara";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-001";"LT-B-MT-129";"LT-B-FD-124";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"Islamabad";"Gohjaria";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-001";"LT-B-MT-130";"LT-B-FD-138";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"Harbang";NA;"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-001";"LT-B-MT-130";"LT-B-FD-138";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"Chiringa";NA;"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-001";"LT-B-MT-130";"LT-B-FD-138";NA;2;"Yes";NA;"Chittagong";"Lohagara";8809;NA;NA;"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.1177092220733;22.0019972951578
+"LT-B-ST-111-001";"LT-B-MT-130";"LT-B-FD-138";NA;2;"Yes";NA;"Chittagong";"Lohagara";8809;NA;NA;"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.1177092220733;22.0019972951578
+"LT-B-ST-111-003";"LT-B-MT-129";"LT-B-FD-124";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"PM  Khalil";"Maispara";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-003";"LT-B-MT-129";"LT-B-FD-124";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"Islamabad";"Gohjaria";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-111-004";"LT-B-MT-131";"LT-B-FD-125";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Icchakhali";"Bhuiya gram";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-111-004";"LT-B-MT-131";"LT-B-FD-125";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Jorargonj";"Sonapahar";"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-111-004";"LT-B-MT-131";"LT-B-FD-125";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Osmanpur";NA;"Chattogram";"Bahadarhat kacha bazar";111;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-112-002";"LT-B-MT-133";"LT-B-FD-128";NA;2;"Yes";NA;"Feni";"Chhagalnaiya";8858;"Chagolnaiya sadar";NA;"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.4833748043248;23.0700497187398
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-127";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;"Cumilla";NA;"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.1910307000824;23.4299719785856
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-126";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Mirshorai";"Jorargonj";"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-127";NA;2;"Yes";NA;"Noakhali";"Noakhali S.";8871;"Noakhali Sadar";NA;"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.1210781654896;22.6945733430476
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-126";NA;2;"Yes";NA;"Feni";"Parshuram";8861;"Porshuram";NA;"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.4337149889;23.2127094102215
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-126";NA;2;"Yes";NA;"Chittagong";"Sitakunda";8816;"Sitakunda";"Baroiarhat";"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.6987395235161;22.5418264081971
+"LT-B-ST-112-005";"LT-B-MT-132";"LT-B-FD-127";NA;2;"Yes";NA;"Chittagong";"Sitakunda";8816;"Sitakunda";NA;"Chattogram";"Bandortilla kacha bazar";112;NA;NA;"Chattogram";91.6987395235161;22.5418264081971
+"LT-B-ST-113-002";"LT-B-MT-134";"LT-B-FD-129";NA;2;"Yes";NA;"Cox's Bazar";"Chakaria";8817;"Dulhazara";"Boalkhli/Jumchari";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";92.0350153751394;21.7617298107014
+"LT-B-ST-113-002";"LT-B-MT-134";"LT-B-FD-129";NA;2;"Yes";NA;"Cox's Bazar";"Ramu";8821;NA;"Jowarianala";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";92.1212879652266;21.4385454320936
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-130";NA;2;"Yes";NA;"Cox's Bazar";"Ramu";8821;NA;"Rashed nagar";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";92.1212879652266;21.4385454320936
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-131";NA;2;"Yes";NA;"Chittagong";"Fatikchhari";8806;"Fatikchori";"Vujpur";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.7538545515216;22.7593157283933
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-132";NA;2;"Yes";NA;"Chittagong";"Fatikchhari";8806;"Fatikchori";"Kazirhat";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.7538545515216;22.7593157283933
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-132";NA;2;"Yes";NA;"Chittagong";"Fatikchhari";8806;"Fatikchori";"Brindabonhat";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.7538545515216;22.7593157283933
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-132";NA;2;"Yes";NA;"Chittagong";"Fatikchhari";8806;"Fatikchori";"Paindong";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.7538545515216;22.7593157283933
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-133";NA;2;"Yes";NA;"Chittagong";"Fatikchhari";8806;"Fatikchori";"Kazirhat";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.7538545515216;22.7593157283933
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-133";NA;2;"Yes";NA;"Khagrachari";"Khagrachari";8851;"Khagrachori Sadar";NA;"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.9875132840533;23.1382606818963
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-133";NA;2;"Yes";NA;"Khagrachari";"Khagrachari";8851;"Komolchori";NA;"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.9875132840533;23.1382606818963
+"LT-B-ST-113-007";"LT-B-MT-136";"LT-B-FD-133";NA;2;"Yes";NA;"Khagrachari";"Matiranga";8855;NA;NA;"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.8693390798345;23.0852158306771
+"LT-B-ST-113-007";"LT-B-MT-135";"LT-B-FD-130";NA;2;"Yes";NA;"Chittagong";"Raozan";8813;"Dabua/Holdia";"Yasin nagar";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";91.9163844211641;22.5289977351246
+"LT-B-ST-113-007";"LT-B-MT-135";"LT-B-FD-130";NA;2;"Yes";NA;"Cox's Bazar";"Ramu";8821;NA;"Rashed nagar";"Chattogram";"CDA Karnafully market";113;NA;NA;"Chattogram";92.1212879652266;21.4385454320936
+"LT-B-ST-114-006";"LT-B-MT-137";"LT-B-FD-134";NA;2;"Yes";NA;"Feni";"Chhagalnaiya";8858;"Chagolnaiya pouroshuva";NA;"Chattogram";"Karnafully complex";114;NA;NA;"Chattogram";91.4833748043248;23.0700497187398
+"LT-B-ST-114-006";"LT-B-MT-137";"LT-B-FD-136";NA;2;"Yes";NA;"Feni";"Chhagalnaiya";8858;"Chagolnaiya";NA;"Chattogram";"Karnafully complex";114;NA;NA;"Chattogram";91.4833748043248;23.0700497187398
+"LT-B-ST-114-006";"LT-B-MT-137";"LT-B-FD-136";NA;2;"Yes";NA;"Feni";"Fulgazi";8860;"Fulgazi";"Loskorhat";"Chattogram";"Karnafully complex";114;NA;NA;"Chattogram";91.4204668619901;22.9867863446218
+"LT-B-ST-114-006";"LT-B-MT-137";"LT-B-FD-135";NA;2;"Yes";NA;"Chittagong";"Hathazari";8807;"Forhadabad";"Udaliya";"Chattogram";"Karnafully complex";114;NA;NA;"Chattogram";91.7977263789578;22.5163408977243
+"LT-B-ST-114-006";"LT-B-MT-137";"LT-B-FD-136";NA;2;"Yes";NA;"Feni";"Parshuram";8861;"Porshuram";NA;"Chattogram";"Karnafully complex";114;NA;NA;"Chattogram";91.4337149889;23.2127094102215
+"LT-B-ST-115-003";"LT-B-MT-138";"LT-B-FD-128";NA;2;"Yes";NA;"Feni";"Chhagalnaiya";8858;"Chagolnaiya sadar";NA;"Chattogram";"Pahartoli bazar";115;NA;NA;"Chattogram";91.4833748043248;23.0700497187398
+"LT-B-ST-116-004";"LT-B-MT-120";"LT-B-FD-113";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Zorargonj";"Sonapahar";"Chattogram";"Reazuddin bazar";116;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-116-004";"LT-B-MT-120";"LT-B-FD-113";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Barioyarhat";"hinguli";"Chattogram";"Reazuddin bazar";116;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-116-005";"LT-B-MT-120";"LT-B-FD-113";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Zorargonj";"Sonapahar";"Chattogram";"Reazuddin bazar";116;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-116-005";"LT-B-MT-120";"LT-B-FD-113";NA;2;"Yes";NA;"Chittagong";"Mirsharai";8810;"Barioyarhat";"hinguli";"Chattogram";"Reazuddin bazar";116;NA;NA;"Chattogram";91.5563957421423;22.7959726711728
+"LT-B-ST-201-002";"LT-B-MT-211";NA;NA;1;"No";NA;"Jaipurhat";"Akkelpur";9072;NA;NA;"Bogura";"Godar Para bazar";201;100;40;"Bogura";89.0433837671459;24.9381842919755
+"LT-B-ST-204-002";"LT-B-MT-201";NA;NA;1;"No";NA;"Bogra";"Shibganj";9070;"Mhosasthan";"Unknown";"Bogura";"Line bazar (Raja bazar)";204;30;5;"Bogura";89.3050697602775;25.0194070320496
+"LT-B-ST-204-006";"LT-B-MT-201";NA;NA;1;"No";NA;"Bogra";"Shibganj";9070;"Mhosasthan";"Unknown";"Bogura";"Line bazar (Raja bazar)";204;30;5;"Bogura";89.3050697602775;25.0194070320496
+"LT-B-ST-204-007";"LT-B-MT-201";NA;NA;1;"No";NA;"Bogra";"Shibganj";9070;"Mhosasthan";"Unknown";"Bogura";"Line bazar (Raja bazar)";204;NA;NA;"Bogura";89.3050697602775;25.0194070320496
+"LT-B-ST-203-005";"LT-B-MT-210";NA;NA;1;"No";NA;"Dinajpur";"Hakimpur";9084;"Hill";"Unknown";"Bogura";"Khandar bazar";203;20;5;"Bogura";89.0540869057888;25.2918955965681
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-328";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Bordoil";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-328";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Jagurjhuli";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Banglabazar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Bordoil";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Jagurjhuli";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-330";NA;2;"Yes";NA;"Comilla";"Chauddagram";8842;"Miyabazar";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-FD-330";NA;2;"Yes";NA;"Comilla";"Chauddagram";8842;NA;"Bangalmuri";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-301";3;"Yes";NA;"Comilla";"Comilla S.";8843;"Kotbari";"Lalmati";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Italla";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Chauddagram";8842;NA;NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-301-001";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Lalmai";8841;NA;"Sreemantapur";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-301";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;"Kotbari";"Lalmati";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;NA;"Italla";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Chauddagram";8842;NA;NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Lalmai";8841;NA;"Sreemantapur";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-315";"LT-B-FD-307";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;"Bijoypur";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-315";"LT-B-FD-307";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;NA;"Salman nagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-315";"LT-B-FD-314";3;"Yes";"Yes";"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-315";"LT-B-FD-314";3;"Yes";"Yes";"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-004";"LT-B-ST-306-101";"LT-B-MT-315";"LT-B-FD-325";3;"Yes";"Yes";"Comilla";"Chandhina";8841;"Nuritala";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-005";"LT-B-MT-317";"LT-B-FD-307";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;"Bijoypur";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-005";"LT-B-MT-317";"LT-B-FD-307";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Salman nagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-005";"LT-B-MT-317";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Balutupa";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-005";"LT-B-MT-317";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Tikkarchar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-307";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;"Bijoypur";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-307";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Salman nagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-325";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Nuritala";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-007";"LT-B-MT-315";"LT-B-FD-325";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Nuritala";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-007";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-007";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-301-007";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-007";"LT-B-MT-316";"LT-B-FD-326";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-301-008";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-008";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"Badshah Miyar bazar";301;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-010";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"Badshah Miyar bazar";301;150;160;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-010";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"Badshah Miyar bazar";301;150;160;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-301";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;"Kotbari";"Lalmati";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";"Yes";"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Comilla S.";8843;NA;"Italla";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Chauddagram";8842;NA;NA;"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-301-013";"LT-B-ST-306-101";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";"Yes";"Comilla";"Lalmai";8841;NA;"Sreemantapur";"Cumilla";"Badshah Miyar bazar";301;50;60;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-328";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Bordoil";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-328";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Jagurjhuli";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Banglabazar";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Bordoil";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-329";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Jagurjhuli";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-330";NA;2;"Yes";NA;"Comilla";"Chauddagram";8842;"Miyabazar";NA;"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-FD-330";NA;2;"Yes";NA;"Comilla";"Chauddagram";8842;NA;"Bangalmuri";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-301";3;"Yes";NA;"Comilla";"Comilla S.";8843;"Kotbari";"Lalmati";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-302";3;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Italla";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Chauddagram";8842;NA;NA;"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";91.2851490389053;23.22262294429
+"LT-B-ST-302-003";"LT-B-MT-319";"LT-B-MT-301";"LT-B-FD-303";3;"Yes";NA;"Comilla";"Lalmai";8841;NA;"Sreemantapur";"Cumilla";"Chawk bazar";302;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-303-003";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-003";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-303-003";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-004";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-004";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-303-004";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-005";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-005";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-303-005";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-007";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-303-007";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-303-007";"LT-B-MT-305";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Chowara bazar";303;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-001";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-002";NA;NA;NA;0;"No";NA;"Comilla";"Burichang";8840;"Kanghjanagar";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-003";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-004";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-304-004";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichong";8840;NA;"Indrabati";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichong";8840;NA;"Jagatpur";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-004";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-304-005";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"New Market Kacha bazar";304;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-001";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Asadnagar";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-305-001";"LT-B-MT-308";"LT-B-FD-314";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Keronkhal";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-002";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-003";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-004";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;"Shiblai";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Indrabati";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-315";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Jagatpur";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;"Takoi";NA;"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-305-005";"LT-B-MT-309";"LT-B-FD-316";NA;2;"Yes";NA;"Comilla";"Burichang";8840;NA;"Baareshwar";"Cumilla";"Yeasin market";305;NA;NA;"Cumilla";91.115652038044;23.5328663675291
+"LT-B-ST-311-003";"LT-B-MT-322";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Balutupa";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-003";"LT-B-MT-322";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Tikkarchar";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-003";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Gazipur";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-003";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Tetiara";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-003";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;NA;"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-006";"LT-B-MT-323";"LT-B-FD-325";NA;2;"Yes";NA;"Comilla";"Chandhina";8841;"Nuritala";NA;"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";90.9505967696775;23.4432753369641
+"LT-B-ST-311-016";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;"Shanichou";"Matainkot";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-311-016";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8838;NA;"Joynagar";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.044090171781;23.3544822427479
+"LT-B-ST-311-016";"LT-B-MT-316";"LT-B-FD-302";NA;2;"Yes";NA;"Comilla";"Lalmai";8847;NA;"Vushchi";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1116096443498;23.2141016586175
+"LT-B-ST-311-016";"LT-B-MT-316";"LT-B-FD-326";NA;2;"Yes";NA;"Comilla";"Brahmanpara";8839;NA;NA;"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.10853482517;23.6465940988548
+"LT-B-ST-311-017";"LT-B-MT-322";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Balutupa";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-017";"LT-B-MT-322";"LT-B-FD-327";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Tikkarchar";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-017";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Gazipur";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-017";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;"Tetiara";"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-311-017";"LT-B-MT-322";"LT-B-FD-331";NA;2;"Yes";NA;"Comilla";"Comilla S.";8843;NA;NA;"Cumilla";"Rajgonj Kacha bazar";311;NA;NA;"Cumilla";91.1910307000824;23.4299719785856
+"LT-B-ST-401-001";"LT-B-MT-430";"LT-B-FD-415";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Dhulihor";"Kodomtola";"Jashore";"Bou bazar";401;30;10;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-401-001";"LT-B-MT-430";"LT-B-FD-415";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Satkhira pourosova";"Dohakhola";"Jashore";"Bou bazar";401;30;10;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-401-001";"LT-B-MT-430";"LT-B-FD-415";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Komorpur";"Dohakhola";"Jashore";"Bou bazar";401;30;10;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-402-001";"LT-B-MT-417";"LT-B-FD-416";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnonogor";"Krishnonogor";"Jashore";"Notun khoyertola bazar";402;50;15;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-402-002";"LT-B-MT-417";"LT-B-FD-416";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnonogor";"Rogunadhpur";"Jashore";"Notun khoyertola bazar";402;45;15;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-402-003";"LT-B-MT-417";"LT-B-FD-416";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Komorpur";"Dohakhola";"Jashore";"Notun khoyertola bazar";402;60;15;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-404-001";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Churamonkathi";"Dohakhola";"Jashore";"Sheikhati bazar";404;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-001";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Sheikhati bazar";404;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-001";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Solua";"Jashore";"Sheikhati bazar";404;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-001";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Dholparasta";"Jashore";"Sheikhati bazar";404;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-001";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Sheikhati bazar";404;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-002";"LT-B-MT-420";"LT-B-FD-418";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Binodmore";"Binodmore";"Jashore";"Sheikhati bazar";404;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-002";"LT-B-MT-420";"LT-B-FD-418";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Jashore Sadar";"Kochoua";"Jashore";"Sheikhati bazar";404;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-003";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Churamonkathi";"Dohakhola";"Jashore";"Sheikhati bazar";404;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-003";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Sheikhati bazar";404;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-003";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Solua";"Jashore";"Sheikhati bazar";404;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-003";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Dholparasta";"Jashore";"Sheikhati bazar";404;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-404-003";"LT-B-MT-418";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Sheikhati bazar";404;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-405-002";"LT-B-MT-423";"LT-B-FD-419";NA;2;"Yes";NA;"Satkhira";"Shyamnagar";9047;"Kashimari";"Kashimari";"Jashore";"Dhormotola bazar";405;40;15;"Jashore";89.1782856044825;22.0620009171869
+"LT-B-ST-405-002";"LT-B-MT-423";"LT-B-FD-419";NA;2;"Yes";NA;"Satkhira";"Kaliganj";8891;"Bishnupur";"Fothapur";"Jashore";"Dhormotola bazar";405;40;15;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-405-003";"LT-B-MT-421";"LT-B-FD-420";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Fokpur";"Hamidpur";"Jashore";"Dhormotola bazar";405;30;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-405-003";"LT-B-MT-421";"LT-B-FD-420";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Fokpur";"Rajarhat";"Jashore";"Dhormotola bazar";405;30;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-405-003";"LT-B-MT-421";"LT-B-FD-420";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Rajarhat";"Khajura";"Jashore";"Dhormotola bazar";405;30;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-405-003";"LT-B-MT-421";"LT-B-FD-420";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Chatiantola";"Chatiantola";"Jashore";"Dhormotola bazar";405;30;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-405-003";"LT-B-MT-421";"LT-B-FD-420";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Monohorpur";"Chatiantola";"Jashore";"Dhormotola bazar";405;30;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Krishnonogor";"Kalikapur";"Jashore";"Boro bazar";411;60;30;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Foridpur";"Jashore";"Boro bazar";411;60;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnanogor";"Kalikapur";"Jashore";"Boro bazar";411;60;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Bondhokati";"Jashore";"Boro bazar";411;60;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Jashore sadar";"Jamrultola";"Jashore";"Boro bazar";411;60;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Boro bazar";411;60;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-001";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Boro bazar";411;60;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-003";"LT-B-MT-431";"LT-B-FD-422";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnonogor";"Baliadanga";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-003";"LT-B-MT-431";"LT-B-FD-422";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnonogor";"Shonkhopur";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-003";"LT-B-MT-431";"LT-B-FD-422";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bisunupur";"Foridpur";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Krishnonogor";"Kalikapur";"Jashore";"Boro bazar";411;70;30;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Foridpur";"Jashore";"Boro bazar";411;70;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnanogor";"Kalikapur";"Jashore";"Boro bazar";411;70;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Bondhokati";"Jashore";"Boro bazar";411;70;30;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Jashore sadar";"Jamrultola";"Jashore";"Boro bazar";411;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Boro bazar";411;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-004";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Boro bazar";411;70;30;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Satkhira S.";9046;"Krishnonogor";"Kalikapur";"Jashore";"Boro bazar";411;60;10;"Jashore";89.0353407197417;22.7270724378328
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-421";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Foridpur";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Krishnanogor";"Kalikapur";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-423";NA;2;"Yes";NA;"Shatkhira";"Kaliganj";8891;"Bishnupur";"Bondhokati";"Jashore";"Boro bazar";411;60;10;"Jashore";90.5531833830499;23.9886352959927
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Jashore sadar";"Jamrultola";"Jashore";"Boro bazar";411;60;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Boro bazar";411;60;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-411-005";"LT-B-MT-432";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Boro bazar";411;60;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-005";"LT-B-MT-425";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Churamonkathi";"Dohakhola";"Jashore";"Palbari bazar";412;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-005";"LT-B-MT-425";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Palbari bazar";412;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-005";"LT-B-MT-425";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Solua";"Jashore";"Palbari bazar";412;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-005";"LT-B-MT-425";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Dholparasta";"Jashore";"Palbari bazar";412;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-005";"LT-B-MT-425";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Palbari bazar";412;50;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-001";"LT-B-MT-428";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Churamonkathi";"Dohakhola";"Jashore";"Puraton koshba bazar";413;35;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-001";"LT-B-MT-428";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bagharpara";"Bosundia";"Jashore";"Puraton koshba bazar";413;35;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-001";"LT-B-MT-428";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Solua";"Jashore";"Puraton koshba bazar";413;35;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-001";"LT-B-MT-428";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Dholparasta";"Jashore";"Puraton koshba bazar";413;35;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-001";"LT-B-MT-428";"LT-B-FD-417";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Bosundia";"Charabita";"Jashore";"Puraton koshba bazar";413;35;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-010";"LT-B-MT-429";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Fokpur";"Hamidpur";"Jashore";"Puraton koshba bazar";413;25;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-010";"LT-B-MT-429";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Fokpur";"Rajarhat";"Jashore";"Puraton koshba bazar";413;25;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-413-010";"LT-B-MT-429";"LT-B-FD-424";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Rajarhat";"Khajura";"Jashore";"Puraton koshba bazar";413;25;10;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-425";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Churamonkathi";"Dohakhola";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-425";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Fokpur";"Rajarhat";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-425";NA;2;"Yes";NA;"Jessore";"Jessore S.";9005;"Rajarhat";"Sitorampur";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2195598975398;23.180755867803
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-426";NA;2;"Yes";NA;"Jessore";"Keshabpur";9007;"Mongolkot";"Kondoppur";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2333431898619;22.8786955047788
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-426";NA;2;"Yes";NA;"Jessore";"Keshabpur";9007;"Mongolkot";"Magurkhali";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2333431898619;22.8786955047788
+"LT-B-ST-412-001";"LT-B-MT-448";"LT-B-FD-426";NA;2;"Yes";NA;"Jessore";"Keshabpur";9007;"Chachra";"Sarapole";"Jashore";"Palbari bazar";412;40;15;"Jashore";89.2333431898619;22.8786955047788

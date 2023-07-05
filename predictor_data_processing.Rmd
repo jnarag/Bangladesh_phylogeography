@@ -1,0 +1,156 @@
+---
+title: "Predictor Data for Hub"
+output: html_notebook
+editor_options: 
+  chunk_output_type: inline
+---
+
+
+```{r, warning=FALSE, echo=FALSE, cache.lazy=TRUE}
+# load libraries
+
+library(tidyverse)
+library(stringi)
+library(ggthemes)
+
+```
+
+```{r}
+
+list_markets <- read.delim("Jaccard Index/List_marketsMC.csv", sep = ";")
+```
+
+```{r}
+
+dist_df <- read.csv("distances_upazilas_to_markets.csv") |>
+  rename(site = id_loc_mv) |>
+  left_join(list_markets)
+
+Chattogram_markets <- 
+  dist_df |>
+  filter(newCity == "Chittagong")
+
+Dhaka_markets <- 
+  dist_df |>
+  filter(newCity == "Dhaka")
+
+Chattogram_dist <-
+  Chattogram_markets |>
+  group_by(marketName) |>
+  summarise(min_travel_time = min(Time.travel), min_driving_distance = min(Driving.distance), min_euclidean_distance = min(Euclidean.distance))
+
+Dhaka_dist <-
+  Dhaka_markets |>
+  group_by(marketName) |>
+  summarise(min_travel_time = min(Time.travel), min_driving_distance = min(Driving.distance), min_euclidean_distance = min(Euclidean.distance))
+
+
+```
+
+blalalalalallala
+
+```{r}
+
+market_site_broiler <- read_csv("Jaccard Index/JaccardIndex_by Market site_exotic broiler.csv") |>
+  rename(site = Destination) |>
+  mutate(site = as.numeric(site)) |>
+  left_join(list_markets)
+
+
+Dhaka_id <- which(market_site_broiler$city == "Dhaka")
+Chattogram_id <- which(market_site_broiler$city == "Chattogram")
+
+
+market_site_broiler.dhaka <- 
+  market_site_broiler[Dhaka_id,Dhaka_id] |>
+  mutate(site = stri_pad_left(market_site_broiler$site[Dhaka_id], 3, 0))
+
+market_site_broiler.chattogram <- market_site_broiler[Chattogram_id,Chattogram_id] |>
+  mutate(site = market_site_broiler$site[Chattogram_id])
+
+
+write_csv(market_site_broiler.chattogram, "jaccard_index_market_broiler_Chattogram.csv")
+write_csv(market_site_broiler.dhaka, "jaccard_index_market_broiler_Dhaka.csv")
+
+chattogram.sites <- market_site_broiler.chattogram$site
+dhaka.sites <- market_site_broiler.dhaka$site
+
+market_site_broiler.chattogram |>
+  select(site) |>
+  mutate(site = as.numeric(site)) |>
+  right_join(list_markets, by="site") |>
+  filter(newCity == "Chittagong") |>
+  filter(!(site %in% as.numeric(chattogram.sites)))
+
+market_site_broiler.dhaka |>
+  select(site) |>
+  mutate(site = as.numeric(site)) |>
+  right_join(list_markets, by="site") |>
+  filter(city == "Dhaka") |>
+  filter(!(site %in% as.numeric(dhaka.sites)))
+
+
+```
+
+```{r}
+Dhaka_markets <- 
+  list_markets |>
+  filter(city == "Dhaka")
+
+Chattogram_markets <- 
+  list_markets |>
+  filter(city == "Chattogram")
+
+Dhaka_dir_net <- 
+  read.csv("guillaume/Dir_Net_DCC.csv")
+
+Chattogram_dir_net <- 
+  read.csv("guillaume/Dir_Net_CCC.csv")
+
+getMatrix_for_markets <- function(guillaume_matrix, market_names) {
+  
+  markets_upper <- stri_trans_toupper(market_names)
+
+  list <- strsplit(guillaume_matrix$X, "_")
+
+  df <- as.data.frame(t(as.data.frame(list)))
+
+  matched_markets <- c(0)
+
+  for( i in 1:length(df$V1)) {
+  
+  guillaume_i <- df$V1[i]
+
+  for( j in 1:length(markets_upper)) {
+    
+    market_j <- markets_upper[j]
+    
+    TRUE_OR_FALSE <- str_detect(market_j, guillaume_i)
+    
+    if(TRUE_OR_FALSE) {
+      matched_markets <- c(matched_markets, i)
+    }
+  }
+
+}
+
+  matched_markets <- matched_markets[-1]
+
+  final_net <- guillaume_matrix[matched_markets, (1+matched_markets)]
+
+  return(final_net)
+}
+
+
+Dhaka_net <- getMatrix_for_markets(guillaume, Dhaka_markets$marketName)
+
+Chattogram_net <- getMatrix_for_markets(Chattogram_dir_net, Chattogram_markets$marketName)
+Dhaka_markets |>
+  filter(!(marketName %in% matched_markets))
+
+
+
+
+
+```
+
